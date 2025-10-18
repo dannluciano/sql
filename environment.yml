@@ -4,3 +4,8 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-sqlite
+  - catppuccin-jupyterlab
+  - pip:
+    - jupyterlab-night
+    - jupyterlab_miami_nights
+    - JLDracula
