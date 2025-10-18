@@ -8,4 +8,10 @@ dependencies:
   - jupyterlite-core
   - jupyterlite-xeus
   - xeus-sqlite
+  - pip:
+    - catppuccin-jupyterlab
+    - jupyterlab-night
+    - jupyterlab_miami_nights
+    - JLDracula
+    - jupyterlab-language-pack-pt-BR
   
